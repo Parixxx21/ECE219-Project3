@@ -1,0 +1,5 @@
+{"id": 0, "common_answers": [["top5_mi", ""]]}
+{"id": 1, "common_answers": [["top5_f", ""]]}
+{"id": 2, "common_answers": [["ols_val_rmse", ""]]}
+{"id": 3, "common_answers": [["lasso_alpha", ""], ["lasso_val_rmse", ""]]}
+{"id": 4, "common_answers": [["ridge_alpha", ""], ["ridge_val_rmse", ""]]}
